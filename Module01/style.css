@@ -1,0 +1,49 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 48px;
+    color: #2E7Ad3;
+    text-align: center;
+    margin: 45px 0; 
+}
+
+.card {
+    margin: 0 auto;
+    background-color: #F1F1F1;
+    width: 500px;
+    height: 420px;
+    padding: 0 25px;
+}
+
+h2 {
+    color: #104C90;
+    font-size: 32px;
+    margin: 0;
+    padding: 15px 0;
+}
+
+.image {
+    width: 100%;
+}
+
+.first {
+    margin-top: 25px;
+}
+
+.second {
+    margin-top: 9px;
+}
+
+span, a {
+    color: #FF8000;
+    font-weight: bold;
+    text-decoration: underline;
+}
